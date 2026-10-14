@@ -1,0 +1,24 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T3-P02-N01-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t3-p02-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Termidor® SC Liquid Termiticide Trenching & Sub-Slab Injection",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t3-p02-n01-local/",
+  "primaryEntity": "Red Imported Fire Ant (Solenopsis invicta) Two-Step Management Protocols",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t2-p01-n02-local/",
+      "anchor": "Dallas County Mosquito Vector Suppression & West Nile Surveillance",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/services/ant-and-fire-ant-control",
+    "https://pestcontrolservicedallastx.net/services/scorpion-control",
+    "https://pestcontrolservicedallastx.net/",
+    "https://pestcontrolservicedallastx.net/services/rodent-control",
+    "https://pestcontrolservicedallastx.net/services/mosquito-control"
+  ]
+}
