@@ -1,0 +1,24 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T1-P00-N02-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t1-p00-n02-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Emergency Pest Extermination & WDI Real Estate Inspection in Dallas TX",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t1-p00-n02-local/",
+  "primaryEntity": "Sentricon® Colony Elimination System with Always Active™ Technology",
+  "outgoingLinks": [
+    {
+      "url": "https://pestcontrolservicedallastx.net/services/termite-control",
+      "anchor": "subterranean termite control in dallas tx",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/services/termite-control",
+    "https://pestcontrolservicedallastx.net/services/mosquito-control",
+    "https://pestcontrolservicedallastx.net/services/bed-bug-treatment",
+    "https://pestcontrolservicedallastx.net/services/rodent-control",
+    "https://pestcontrolservicedallastx.net/"
+  ]
+}
