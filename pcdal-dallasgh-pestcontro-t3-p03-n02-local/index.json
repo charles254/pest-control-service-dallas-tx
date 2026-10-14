@@ -1,0 +1,24 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T3-P03-N02-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t3-p03-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Blackland Prairie Vertisol Soils & Foundation Slab Termite Ingress",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t3-p03-n02-local/",
+  "primaryEntity": "Hospital-Grade Antimicrobial Attic Insulation Decontamination & Fogging",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t2-p01-n03-local/",
+      "anchor": "Dallas Attic Rodent Exclusion & Roof Rat Eradication Protocols",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/services/rodent-control",
+    "https://pestcontrolservicedallastx.net/",
+    "https://pestcontrolservicedallastx.net/services/mosquito-control",
+    "https://pestcontrolservicedallastx.net/services/termite-inspection-wdi-report",
+    "https://pestcontrolservicedallastx.net/services/termite-control"
+  ]
+}
