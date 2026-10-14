@@ -1,0 +1,23 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T3-P04-N01-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t3-p04-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Roof Rat (Rattus rattus) Structural Biology & Attic Gnawing Hazards",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t3-p04-n01-local/",
+  "primaryEntity": "Integrated Pest Management (IPM) Structural Exclusion & Moisture Abatement",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t2-p02-n01-local/",
+      "anchor": "Dallas Bed Bug Thermal Heat Remediation vs Chemical Treatments",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/",
+    "https://pestcontrolservicedallastx.net/services/mosquito-control",
+    "https://pestcontrolservicedallastx.net/services/termite-inspection-wdi-report",
+    "https://pestcontrolservicedallastx.net/services/termite-control"
+  ]
+}
