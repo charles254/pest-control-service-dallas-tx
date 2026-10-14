@@ -1,0 +1,24 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T3-P01-N02-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t3-p01-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Sentricon® Colony Elimination System with Always Active™ Technology",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t3-p01-n02-local/",
+  "primaryEntity": "Insect Growth Regulators (IGRs) & Micro-Encapsulated Cockroach Gel Baits",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t2-p01-n01-local/",
+      "anchor": "Dallas Subterranean Termite Treatment & Sentricon Colony Elimination",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/services/cockroach-control",
+    "https://pestcontrolservicedallastx.net/services/ant-and-fire-ant-control",
+    "https://pestcontrolservicedallastx.net/services/scorpion-control",
+    "https://pestcontrolservicedallastx.net/",
+    "https://pestcontrolservicedallastx.net/services/rodent-control"
+  ]
+}
