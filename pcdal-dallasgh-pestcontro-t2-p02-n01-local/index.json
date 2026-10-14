@@ -1,0 +1,25 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T2-P02-N01-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t2-p02-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Dallas Bed Bug Thermal Heat Remediation vs Chemical Treatments",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t2-p02-n01-local/",
+  "primaryEntity": "Convective High-Temperature Thermal Remediation (125°F-135°F) for Bed Bugs",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t1-p00-n02-local/",
+      "anchor": "Emergency Pest Extermination & WDI Real Estate Inspection in Dallas TX",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/services/bed-bug-treatment",
+    "https://pestcontrolservicedallastx.net/services/rodent-control",
+    "https://pestcontrolservicedallastx.net/guides/rodent-proofing-a-dallas-home",
+    "https://pestcontrolservicedallastx.net/",
+    "https://pestcontrolservicedallastx.net/services/cockroach-control",
+    "https://pestcontrolservicedallastx.net/services/ant-and-fire-ant-control"
+  ]
+}
