@@ -1,0 +1,24 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T1-P00-N01-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Dallas TX Pest Control & Subterranean Termite Treatment Guide",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t1-p00-n01-local/",
+  "primaryEntity": "Official Texas Wood Destroying Insect (WDI) Real Estate Inspection Report",
+  "outgoingLinks": [
+    {
+      "url": "https://pestcontrolservicedallastx.net/",
+      "anchor": "licensed pest control operators in dallas tx",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/services/termite-inspection-wdi-report",
+    "https://pestcontrolservicedallastx.net/services/termite-control",
+    "https://pestcontrolservicedallastx.net/services/mosquito-control",
+    "https://pestcontrolservicedallastx.net/services/bed-bug-treatment",
+    "https://pestcontrolservicedallastx.net/"
+  ]
+}
