@@ -1,0 +1,24 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T3-P01-N01-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t3-p01-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Official Texas WDI Real Estate Inspection Form & TDA Escrow Standards",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t3-p01-n01-local/",
+  "primaryEntity": "Blackland Prairie Expansive Vertisol Clay Soil Foundation Ingress Dynamics",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t2-p01-n01-local/",
+      "anchor": "Dallas Subterranean Termite Treatment & Sentricon Colony Elimination",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/",
+    "https://pestcontrolservicedallastx.net/services/cockroach-control",
+    "https://pestcontrolservicedallastx.net/services/ant-and-fire-ant-control",
+    "https://pestcontrolservicedallastx.net/services/scorpion-control",
+    "https://pestcontrolservicedallastx.net/services/rodent-control"
+  ]
+}
