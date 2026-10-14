@@ -1,0 +1,25 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T3-P06-N01-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t3-p06-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Red Imported Fire Ant (Solenopsis invicta) Two-Step Management Protocols",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t3-p06-n01-local/",
+  "primaryEntity": "Termidor® SC Fipronil Non-Repellent Chemical Soil Trenching & Injection",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t2-p02-n03-local/",
+      "anchor": "Dallas Fire Ant Colony Inoculation & Striped Bark Scorpion Control",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/services/termite-control",
+    "https://pestcontrolservicedallastx.net/services/mosquito-control",
+    "https://pestcontrolservicedallastx.net/services/bed-bug-treatment",
+    "https://pestcontrolservicedallastx.net/services/rodent-control",
+    "https://pestcontrolservicedallastx.net/guides/rodent-proofing-a-dallas-home",
+    "https://pestcontrolservicedallastx.net/"
+  ]
+}
