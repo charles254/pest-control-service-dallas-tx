@@ -1,0 +1,25 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T3-P05-N02-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t3-p05-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Insect Growth Regulators (IGRs) & Pyrethroid Rotation for Cockroaches",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t3-p05-n02-local/",
+  "primaryEntity": "Sentricon® Colony Elimination System with Always Active™ Technology",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t2-p02-n02-local/",
+      "anchor": "Dallas German Cockroach Cleanout & Perimeter Defense Protocols",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/services/termite-control",
+    "https://pestcontrolservicedallastx.net/services/mosquito-control",
+    "https://pestcontrolservicedallastx.net/services/bed-bug-treatment",
+    "https://pestcontrolservicedallastx.net/services/rodent-control",
+    "https://pestcontrolservicedallastx.net/guides/rodent-proofing-a-dallas-home",
+    "https://pestcontrolservicedallastx.net/"
+  ]
+}
