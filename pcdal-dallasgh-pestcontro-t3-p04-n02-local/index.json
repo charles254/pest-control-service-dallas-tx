@@ -1,0 +1,23 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T3-P04-N02-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t3-p04-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Stainless Steel Weep Hole Screen Retrofits for Dallas Brick Veneers",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t3-p04-n02-local/",
+  "primaryEntity": "Automated Perimeter Botanical Pyrethrin Misting Systems for Residential Grounds",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t2-p02-n01-local/",
+      "anchor": "Dallas Bed Bug Thermal Heat Remediation vs Chemical Treatments",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/services/mosquito-control",
+    "https://pestcontrolservicedallastx.net/services/termite-inspection-wdi-report",
+    "https://pestcontrolservicedallastx.net/services/termite-control",
+    "https://pestcontrolservicedallastx.net/"
+  ]
+}
