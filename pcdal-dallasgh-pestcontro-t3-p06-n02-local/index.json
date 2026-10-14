@@ -1,0 +1,25 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T3-P06-N02-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t3-p06-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Striped Bark Scorpion (Centruroides vittatus) Nighttime UV Auditing",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t3-p06-n02-local/",
+  "primaryEntity": "Dallas County Health and Human Services (DCHHS) West Nile Vector Protocols",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t2-p02-n03-local/",
+      "anchor": "Dallas Fire Ant Colony Inoculation & Striped Bark Scorpion Control",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/services/mosquito-control",
+    "https://pestcontrolservicedallastx.net/services/bed-bug-treatment",
+    "https://pestcontrolservicedallastx.net/services/rodent-control",
+    "https://pestcontrolservicedallastx.net/guides/rodent-proofing-a-dallas-home",
+    "https://pestcontrolservicedallastx.net/",
+    "https://pestcontrolservicedallastx.net/services/cockroach-control"
+  ]
+}
