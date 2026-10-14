@@ -1,0 +1,25 @@
+{
+  "nodeCode": "PCDAL-DALLASGH-PESTCONTRO-T2-P01-N03-LOCAL",
+  "slug": "pcdal-dallasgh-pestcontro-t2-p01-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Dallas Attic Rodent Exclusion & Roof Rat Eradication Protocols",
+  "canonical": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t2-p01-n03-local/",
+  "primaryEntity": "In2Care® Biological Mosquito Trapping & Autodissemination Larvicide",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pest-control-service-dallas-tx/pcdal-dallasgh-pestcontro-t1-p00-n01-local/",
+      "anchor": "Dallas TX Pest Control & Subterranean Termite Treatment Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://pestcontrolservicedallastx.net/services/mosquito-control",
+    "https://pestcontrolservicedallastx.net/services/bed-bug-treatment",
+    "https://pestcontrolservicedallastx.net/services/rodent-control",
+    "https://pestcontrolservicedallastx.net/guides/rodent-proofing-a-dallas-home",
+    "https://pestcontrolservicedallastx.net/",
+    "https://pestcontrolservicedallastx.net/services/cockroach-control"
+  ]
+}
